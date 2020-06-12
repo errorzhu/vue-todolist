@@ -1,0 +1,23 @@
+{
+  "name": "vue-todolist",
+  "version": "1.0.0",
+  "description": "learn vue by developing a todolist",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errorzhu/vue-todolist.git"
+  },
+  "author": "errorzhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/errorzhu/vue-todolist/issues"
+  },
+  "homepage": "https://github.com/errorzhu/vue-todolist#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
